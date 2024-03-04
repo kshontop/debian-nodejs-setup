@@ -1,8 +1,8 @@
 ## Usage
 
-1. Clone this repository to your Debian system or download the `install_node.sh` script.
-2. Make the script executable with the command `chmod +x install_node.sh`.
-3. Run the script with `./install_node.sh`.
+1. Clone this repository to your Debian system or download the `install.sh` script.
+2. Make the script executable with the command `chmod +x install.sh`.
+3. Run the script with `./install.sh`.
 4. Follow the on-screen prompts to complete the installation process.
 
 ## Disclaimer
